@@ -19,6 +19,10 @@ uv.lock
 
 # Data & outputs (generated)
 data/*
+!data/make_silver.py
+!data/profile-report.md
+!data/silver/
+!data/silver_pipeline/
 !data/README.md
 outputs/
 *.parquet
